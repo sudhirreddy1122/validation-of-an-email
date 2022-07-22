@@ -11,13 +11,13 @@ public class emailvalidation {
         emailID.add("rc15@movie.com");
         emailID.add("salar@movie.com");
         emailID.add("ntr30@movie.com");
-        emailID.add("pushpa2@movie.com");
+        emailID.add("pushp2@movie.com");
         emailID.add("mb28@movie.com");
        
         int c = 0;
         
    
-        String searchEmail = "rc15@movie.com";
+        String searchEmail = "mb28@movie.com";
         
                 for(int i=0; i<emailID.size(); i++) {
                     
